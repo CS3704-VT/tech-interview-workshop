@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Eric Jung ericjung04**:
 
-* **Your partner's name and PID:**
+* **Ethan Warner ethanw21:**
 
-* **Link to selected coding challenge:**
+* **https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75**
 
-* **Summary of partner's interview feedback:**
+* **Try to remember data structures better and remember the different libraries**
