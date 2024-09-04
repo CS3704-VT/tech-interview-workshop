@@ -23,9 +23,13 @@ Below are the instructions for this assignment. Your repository should automatic
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
+* ethan werner, ethanw21
 
 * **Your partner's name and PID:**
+* Eric Jung, ericjung04
 
 * **Link to selected coding challenge:**
+* https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
+* Work more on efficiency. The code works but has a lower than average efficiency. Plan for efficiency from the beginning
