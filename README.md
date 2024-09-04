@@ -19,6 +19,7 @@ Below are the instructions for this assignment. Your repository should automatic
 
 * Wednesday (9/4)
 * Please submit whatever code you complete in class for your repository before the end of class, and complete the survey before midnight.
+* 
 
 ### 📝 TODO: Complete this section
 
@@ -27,5 +28,39 @@ Below are the instructions for this assignment. Your repository should automatic
 * **Your partner's name and PID: Michael Kopczynski (michaelkop)
 
 * **Link to selected coding challenge:** https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=leetcode-75
+MY CODE FOR THIS PROBLEM:
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public int maxDepth(TreeNode root) {
+        if (root == null){
+            return 0;
+        }
+        
 
-* **Summary of partner's interview feedback:**
+        int right_tree = maxDepth(root.right) + 1;
+        int left_tree = maxDepth(root.left)+1;
+        if (right_tree> left_tree){
+            return right_tree;
+        }
+        else{
+            return left_tree;
+        }
+    }
+}
+
+
+* **Summary of partner's interview feedback:** I could benefit from thinking out loud and explaining my steps more.
