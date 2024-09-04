@@ -23,9 +23,13 @@ Below are the instructions for this assignment. Your repository should automatic
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
+Anushka Trivedi (anushkat26)
 
 * **Your partner's name and PID:**
+Stuti Shah (stutishah9)
 
 * **Link to selected coding challenge:**
+https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
+My partner, Stuti Shah, said that during the interview, it would have been better to think more out loud. I read the directions to myself, and she suggested by reading it out loud, it shows how much I understand. Also, would have been more beneficial to use a paper to make it easier to brainstorm ideas. 
