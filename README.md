@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Zekun Li, zekunli
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Trevor Jarzynka, trevorj04@vt.edu
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:**: https://leetcode.com/problems/contains-duplicate/
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:**: Good job on completing the problem on time
