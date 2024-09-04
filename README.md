@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Ruhi Jame (ruhijame)
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Sanjana Ghanta (gsanjana)
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** Vocalized thought process well and explained logic that was written, was able to adapt when errors were present and test cases were not passing
