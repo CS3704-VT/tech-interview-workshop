@@ -23,9 +23,17 @@ Below are the instructions for this assignment. Your repository should automatic
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
+*   Aaryaman Akhouri, aakhouri
 
 * **Your partner's name and PID:**
+*   Ben Sullivan, bens21
+*   Tomas Odio, tomas22
 
 * **Link to selected coding challenge:**
+*   https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75
+*   https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
+*   I didn't talk enough
+*   Needed to explain my thought process more clearly
+*   Needed to engage with the interviewer more
