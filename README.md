@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**:Stuti Shah (stutishah9)
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Anushka Trivedi (anushkat26)
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** 
