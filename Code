@@ -1,0 +1,19 @@
+class Solution(object):
+    def mergeAlternately(self, word1, word2):
+        """
+        :type word1: str
+        :type word2: str
+        :rtype: str
+        """
+        index = 0
+        result = ""
+        while index < len(word1):
+            result = result + word1[index] + word2[index]
+            index += 1
+            if index >= len(word1):
+                result += word2[index:]
+                return result
+            if index >= len(word2):
+                result += word1[index:]
+                return result
+        return result
