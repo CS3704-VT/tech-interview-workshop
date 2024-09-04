@@ -22,10 +22,31 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Trevor Jarzynka trevorj04
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** I dont remember the PID I submitted it on the post survey. 
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/valid-parentheses/
+* class Solution:
+    def isValid(self, s: str) -> bool:
+        matching = {')': '(', '}': '{', ']': '['} # Dictionary 
+
+        stack = [] # Holds the parentheses
+        
+        for char in s:
+
+            if char in matching:  #Closing bracket
+            
+                top_element = stack.pop() if stack else '#'
+            
+                if matching[char] != top_element:
+                    return False
+            else:
+                stack.append(char) #Opening Brackets 
+        
+        return not stack
+    
 
 * **Summary of partner's interview feedback:**
+*
+* Good job overall and good idea to pivot to a new idea 
