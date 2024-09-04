@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**:Kishitij Kaushal kishitijk
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID: Ben Fielder benf02
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge: https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback: Knew what he was doing. Needs to think about the edge cases before doing the problem.
