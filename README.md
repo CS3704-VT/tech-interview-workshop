@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Domenic Martin (dmartin80)
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Samantha Austin (samanthaaustin)
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/reverse-linked-list/submissions/1379124506?envType=study-plan-v2&envId=leetcode-75 
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** Good job with the time and space efficiency as well as the in method comments but don't forget to add class and method docs.
