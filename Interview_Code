@@ -1,0 +1,53 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+//Program reverses a linked list with no space overhead and linear time efficency 
+class Solution {
+    /*This is the main and only method of the solution class and reverses a linked 
+    list with no space overhead and linear time efficency */
+    public ListNode reverseList(ListNode head){
+        //Covers the case when the linked list is empty or holds only one node
+        if (head == null || head.next == null){return head;}
+
+        //Covers the case when there are two nodes in the linked list
+        if (head.next.next == null){
+            ListNode retNode = head.next;
+            head.next.next = head;
+            head.next = null;
+            return retNode;
+        }
+        
+        //Covers the case when the linked list has more than 2 nodes
+        //Set up vars for previous, current, and next nodes (first 3 nodes)
+        ListNode prevNode = head;
+        ListNode currNode = prevNode.next;
+        ListNode nextNode = currNode.next;
+
+        /*Loops through the nodes setting the current node's next 
+        variable == to the previous node and then moving each var 
+        forward 1
+        */
+        while (nextNode.next != null){
+            currNode.next = prevNode;
+            prevNode = currNode;
+            currNode = nextNode;
+            nextNode = nextNode.next;
+        }
+
+        /*Sets the inital head node's next var to null and then finishs 
+        updating the next var for the last two nodes of the inital linked list*/
+        head.next = null;
+        nextNode.next = currNode;
+        currNode.next = prevNode;
+
+        //Returns the new head node of the linked list
+        return nextNode;
+    }
+}
