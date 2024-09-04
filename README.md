@@ -22,10 +22,11 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Sanjana Ghanta (gsanjana)
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Ruhi Jame (ruhijame)
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
+* Had a very thoughtful approach towards the problem and when unforeseen errors were produced she carefully debugged her code. She used the most efficient method possible while taking full advantage of well-known and used methods!  
