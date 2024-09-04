@@ -22,10 +22,14 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+Details: 
 
-* **Your partner's name and PID:**
+Your name and PID: Michael Pang (michaelp03)
 
-* **Link to selected coding challenge:**
+Your partner's name and PID: Elijah Tynes (elijaht)
 
-* **Summary of partner's interview feedback:**
+Link to selected coding challenge: https://leetcode.com/problems/determine-if-two-strings-are-close/?envType=study-plan-v2&envId=leetcode-75
+
+Summary of partner's interview feedback:
+-Research a bit more into libraries supported by Java for Strings
+-Focus on one coding language, since I was spending time trying to figure out which language to focus on
