@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Isha Devgan (idevgan)
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID: Michael Kopczynski (michaelkop)
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
